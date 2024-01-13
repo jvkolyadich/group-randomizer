@@ -1,5 +1,6 @@
 {
   "name": "group-randomizer",
+  "homepage": "https://jvkolyadich.github.io/group-randomizer",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
